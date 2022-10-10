@@ -1,0 +1,100 @@
+Sekans 1: TTCAAGCA
+Sekans 9: CAAGCAGA
+Hizalama: TTCAAGCA--  ----------->  TCAAGCAA
+          --CAAGCAGA
+ ----------------------------------------------------------------
+Sekans 2: AACTTTTG
+Sekans 11: AAACTTTT
+Hizalama: -AACTTTTG  ----------->  AAACTTTTG
+          AAACTTTT-
+ ----------------------------------------------------------------
+Sekans 3: CAGAGGCC
+Sekans 15: AGAGGCCC
+Hizalama: CAGAGGCC-  ----------->  CAGAGGCCC
+          -AGAGGCCC
+ ----------------------------------------------------------------
+Sekans 4: AAGGGCGC
+Sekans 7: AAAGGGCG
+Hizalama: -AAGGGCGC  ----------->  AAAGGGCGC
+          AAAGGGCG-
+ ----------------------------------------------------------------
+Sekans 5: TGGAAAGG
+Sekans 14: TTGGAAAG
+Hizalama: -TGGAAAGG  ----------->  TTGGAAAGG
+          TTGGAAAG-
+ ----------------------------------------------------------------
+Sekans 6: TTTGGAAA
+Sekans 14: TTGGAAAG
+Hizalama: TTTGGAAA-  ----------->  TTTGGAAAG
+          -TTGGAAAG
+ ----------------------------------------------------------------
+Sekans 7: AAAGGGCG
+Sekans 13: GAAAGGGC
+Hizalama: -AAAGGGCG  ----------->  GAAAGGGCG
+          GAAAGGGC-
+ ----------------------------------------------------------------
+Sekans 8: GGAACATT
+Sekans 19: GAACATTC
+Hizalama: GGAACATT-  ----------->  GGAACATTC
+          -GAACATTC
+ ----------------------------------------------------------------
+Sekans 9: CAAGCAGA
+Sekans 18: AGCAGAGA
+Hizalama: CAAGCAGA--  ----------->  AAGCAGAA
+          --AGCAGAGA
+ ----------------------------------------------------------------
+Sekans 10: CCCCGAAA
+Sekans 20: CCCCGAAA
+Hizalama: CCCCGAAA  ----------->  CCCCGAAA
+          CCCCGAAA
+ ----------------------------------------------------------------
+Sekans 11: AAACTTTT
+Sekans 12: CCTAAACT
+Hizalama: ---AAACTTTT  ----------->  TAAACTT
+          CCTAAACT---
+ ----------------------------------------------------------------
+Sekans 12: CCTAAACT
+Comp_Sekans 6: TTTCCAAA
+Hizalama: ---CCTAAACT  ----------->  TCCTAAAT
+          TTTCC-AAA--
+ ----------------------------------------------------------------
+Sekans 13: GAAAGGGC
+Sekans 14: TTGGAAAG
+Hizalama: ---GAAAGGGC  ----------->  GGAAAGC
+          TTGGAAAG---
+ ----------------------------------------------------------------
+Sekans 14: TTGGAAAG
+Comp_Sekans 1: TGCTTGAA
+Hizalama: ---TTGGAAAG  ----------->  CTTGGAAG
+          TGCTTG-AA--
+ ----------------------------------------------------------------
+Sekans 15: AGAGGCCC
+Comp_Sekans 3: GGCCTCTG
+Hizalama: AGAGGCC-C--  ----------->  AGGCCTCG
+          ---GGCCTCTG
+ ----------------------------------------------------------------
+Sekans 16: GCCCTTCA
+Comp_Sekans 13: GCCCTTTC
+Hizalama: GCCCTT-CA  ----------->  GCCCTTTCA
+          GCCCTTTC-
+ ----------------------------------------------------------------
+Sekans 17: GCCCCGAA
+Sekans 20: CCCCGAAA
+Hizalama: GCCCCGAA-  ----------->  GCCCCGAAA
+          -CCCCGAAA
+ ----------------------------------------------------------------
+Sekans 18: AGCAGAGA
+Comp_Sekans 1: TGCTTGAA
+Hizalama: AGC-AGAGA  ----------->  *GC*GAGA
+          TGCTTGA-A
+ ----------------------------------------------------------------
+Sekans 19: GAACATTC
+Comp_Sekans 1: TGCTTGAA
+Hizalama: -----GAACATTC  ----------->  TGAAC
+          TGCTTGAA-----
+ ----------------------------------------------------------------
+Sekans 20: CCCCGAAA
+Comp_Sekans 1: TGCTTGAA
+Hizalama: --CCCCGAAA  ----------->  GC**GAAA
+          TGC-TTGAA-
+ ----------------------------------------------------------------

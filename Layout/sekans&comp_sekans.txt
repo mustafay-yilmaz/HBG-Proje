@@ -1,0 +1,60 @@
+Sekans 1: TTCAAGCA
+Comp_Sekans 1: TGCTTGAA
+ ----------------------------------------------------------------
+Sekans 2: AACTTTTG
+Comp_Sekans 2: CAAAAGTT
+ ----------------------------------------------------------------
+Sekans 3: CAGAGGCC
+Comp_Sekans 3: GGCCTCTG
+ ----------------------------------------------------------------
+Sekans 4: AAGGGCGC
+Comp_Sekans 4: GCGCCCTT
+ ----------------------------------------------------------------
+Sekans 5: TGGAAAGG
+Comp_Sekans 5: CCTTTCCA
+ ----------------------------------------------------------------
+Sekans 6: TTTGGAAA
+Comp_Sekans 6: TTTCCAAA
+ ----------------------------------------------------------------
+Sekans 7: AAAGGGCG
+Comp_Sekans 7: CGCCCTTT
+ ----------------------------------------------------------------
+Sekans 8: GGAACATT
+Comp_Sekans 8: AATGTTCC
+ ----------------------------------------------------------------
+Sekans 9: CAAGCAGA
+Comp_Sekans 9: TCTGCTTG
+ ----------------------------------------------------------------
+Sekans 10: CCCCGAAA
+Comp_Sekans 10: TTTCGGGG
+ ----------------------------------------------------------------
+Sekans 11: AAACTTTT
+Comp_Sekans 11: AAAAGTTT
+ ----------------------------------------------------------------
+Sekans 12: CCTAAACT
+Comp_Sekans 12: AGTTTAGG
+ ----------------------------------------------------------------
+Sekans 13: GAAAGGGC
+Comp_Sekans 13: GCCCTTTC
+ ----------------------------------------------------------------
+Sekans 14: TTGGAAAG
+Comp_Sekans 14: CTTTCCAA
+ ----------------------------------------------------------------
+Sekans 15: AGAGGCCC
+Comp_Sekans 15: GGGCCTCT
+ ----------------------------------------------------------------
+Sekans 16: GCCCTTCA
+Comp_Sekans 16: TGAAGGGC
+ ----------------------------------------------------------------
+Sekans 17: GCCCCGAA
+Comp_Sekans 17: TTCGGGGC
+ ----------------------------------------------------------------
+Sekans 18: AGCAGAGA
+Comp_Sekans 18: TCTCTGCT
+ ----------------------------------------------------------------
+Sekans 19: GAACATTC
+Comp_Sekans 19: GAATGTTC
+ ----------------------------------------------------------------
+Sekans 20: CCCCGAAA
+Comp_Sekans 20: TTTCGGGG
+ ----------------------------------------------------------------
